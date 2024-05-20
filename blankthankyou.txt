@@ -1,0 +1,13 @@
+Dear {0} {2},
+
+I want to extend our heartfelt gratitude for your generous donation to Berea College.
+Your support is instrumental in helping us achieve our mission of making sure every
+Berea College student has tuition paid for. We believe that together, we can create
+meaningful and lasting change. Your commitment to our cause inspires us to work even
+harder to make a difference in our community. We deeply appreciate your trust and
+partnership in this journey.
+
+Take care.
+
+Sincerely,
+{3}
