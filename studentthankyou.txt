@@ -1,0 +1,27 @@
+Dear {0} {2},
+
+I want to extend my heartfelt gratitude for your generous donation to Berea College. Your contribution helps to make
+sure that people like me can afford to get an education that would not be attainable by any other means. Being a
+non-traditional student, I attended a university prior to attending Berea and dropped out after a couple of years.
+When considering going back to college, I had many concerns. How would I pay for college? Would I feel out of place
+being an older student? Would I find the courses meaningful and fulfilling? I strongly feel that Berea is a blessing
+that dealt with all these concerns, has allowed me to flourish and has helped me become a more well-rounded person.
+
+	The main difference, and main reason why I chose to go to school here, between Berea and other universities is their
+no-tuition promise. With the average yearly tuition cost at nearly $45,000, it is safe to say that I wouldn’t be able to
+afford a college education without the support of Berea College and their no-tuition promise. Another reason that I
+chose Berea is their large base of non-traditional students. Throughout my first year at Berea, I have managed to make
+meaningful connections with many non-traditional students, many of whom have similar life and college experiences as I
+do. Finally, Berea has a wide range of available classes and I’ve been able to take a mix of classes that count toward
+my major as well as classes that I find interesting and engaging. So far, Berea College has been welcoming, fulfilling,
+and has been the experience with college that I always hoped I would have. Put simply, it feels like home.
+
+	I plan on graduating with my degree in computer science in spring of 2026. Upon graduation I hope to find a remote
+position that will allow me to travel the country, meet new people, and see new sights. I believe the experience and
+opportunities provided by Berea College will help me accomplish this and help me find my place in the world. I want to
+thank you again for your contribution to Berea. Without your support, students like me wouldn’t be afforded the
+wonderful opportunity to get an education for free while positively impacting the world around us. I hope to do great
+things, and without you it wouldn’t be possible.
+
+Sincerely,
+{3}

@@ -21,13 +21,14 @@ def names():
     # ...
 
 
-def story(fullname):
+def note(fullname, person):
     """
-    Opens blankthankyou.txt to read the file, insert answers from the list created by names(), and insert answers into blankthankyou.txt
+    Opens a text file to read the file, insert info from names(), and insert answers into a thank you note
     param: fullname: the full name of the donor to be used when creating the text file.
+    param: person: the person writing the letter
     """
-    blankthank = open("blankthankyou.txt", "r")
-    fullnote = open("Thank You " + fullname + ".txt", "w")
+    blankthank = open(person + "thankyou.txt", "r")
+    fullnote = open("Thank You " + fullname + " from " + person + ".txt", "w")
 
     name_list = names()
 
@@ -37,13 +38,15 @@ def story(fullname):
 
 
 def main():
-    name = " "
+
     while 1 > 0:
         print("To stop the program, please type '0' as the donor name.")
         name = input("Enter the full name of the donor:")
         if name == "0":
             quit()
-        story(name)
+        else:
+            person = input("Who would you like the letter to be from? [employee, student]")
+            note(name, person)
 
 
 main()
