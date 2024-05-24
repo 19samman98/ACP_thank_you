@@ -38,7 +38,10 @@ def note(fullname, person):
 
 
 def main():
-
+    """
+    A function that asks the user input for names and creates thank you notes based on the user input
+    :return: None
+    """
     while 1 > 0:
         print("To stop the program, please type '0' as the donor name.")
         name = input("Enter the full name of the donor:")
